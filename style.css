@@ -20,3 +20,16 @@
 #menu a:hover{
     color: #5077bd;
 }
+h2{
+    font-family: Impact;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+h4{
+    font-family: Impact;
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+}
